@@ -1,4 +1,4 @@
-# Rubiks_Cube_Solver
+# rubiks_cube_solver
 Bogazici University Mechanical Engineering Students Mechatronics Course Project.
 
 It is designed to go step by step for the solutions or you can let it solve everything at once, for which you can select to stop at a certain move.
