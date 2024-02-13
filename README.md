@@ -5,7 +5,7 @@ We, as five mechanical engineering students, have designed and built a Rubik's C
 1. 3D Mechanical Design --> Finding the most feasible & cost-effective solution for the mechanical body & components
 2. Electrical Circuit --> Building a simple, safe & reliable electrical circuit that realizes the objective 
 3. Computer Vision & Solving the Cube --> Using python to detect the colors on each face with Computer Vision, solving the cube using Kociemba library
-4. Interactivity --> Utilizing a joystick that allows the user to control the progression of steps at their own pace and even reverse steps. This is accomplished using Arduino.
+4. Actuation & Interactivity --> Six motors controlled via Arduino are used to rotate the faces of the cube. A joystick is added for enhanced user interactivity that enables the manipulation of the progression of steps and even reversing them.
 
 ![rubiks_cube_gif](https://github.com/ChazzKemal/Rubiks_Cube_Solver/assets/71472091/ef1a23b9-0788-4217-84a3-35cccd8e4b20)
 
