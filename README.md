@@ -1,7 +1,7 @@
 # Rubiks Cube Solver
 Bogazici University Mechanical Engineering Students Mechatronics Course Project.
 
-We, as five mechanical engineering students, have designed and built a Rubik's Cube Solver. The objective of this project is to solve a Rubik's Cube in a fully automated manner, the steps of which can also be controlled via a joystick which makes up the interactive user interface of this project. This solver's utilizes the Kociemba library to solve the Rubik's Cube from an arbitrary starting distribution. This project involves four main steps:
+We, as five mechanical engineering students, have designed and built a Rubik's Cube Solver. The objective of this project is to solve a Rubik's Cube in a fully automated manner, the steps of which can also be controlled via a joystick which makes up the interactive user interface of this project. This solver utilizes the Kociemba library to solve the Rubik's Cube from an arbitrary starting distribution. This project involves four main steps:
 1. 3D Mechanical Design --> Finding the most feasible & cost-effective solution for the mechanical body & components
 2. Electrical Circuit --> Building a simple, safe & reliable electrical circuit that realizes the objective 
 3. Computer Vision & Solving the Cube --> Using python to detect the colors on each face with Computer Vision, solving the cube using Kociemba library
